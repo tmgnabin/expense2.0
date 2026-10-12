@@ -1,4 +1,4 @@
-# Expense Tracker 2.0 — Final Year Project
+# Expense Tracker 2.0
 
 A production-grade, monolithic full-stack personal finance web application built from scratch for academic final-year project evaluation. Engineered with code quality, security, clear separation of concerns, and documentation at its core.
 
